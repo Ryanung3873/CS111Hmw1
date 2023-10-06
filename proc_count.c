@@ -34,5 +34,5 @@ module_init(proc_count_init);
 module_exit(proc_count_exit);
 
 MODULE_AUTHOR("Ryan Ung");
-MODULE_DESCRIPTION("CS111 lab0 count proc number: 175");
+MODULE_DESCRIPTION("CS111 lab0 count proc number 175");
 MODULE_LICENSE("GPL");
